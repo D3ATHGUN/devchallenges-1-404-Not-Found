@@ -1,0 +1,78 @@
+*{
+  box-sizing: border-box;
+  padding:0px;
+  margin: 0px;
+}
+html {
+  font-size: 62.5%;
+}
+
+body{
+  margin: 20px 24px;
+}
+.header__title{
+  font-weight: 700;
+  font-size: 2.4rem;
+  line-height:2.518rem;
+  font-family: 'Inconsolata', monospace;
+  color: #333333;
+}
+.main__picture{
+  min-width: 286.83px;
+  max-width: 350px;
+  min-height: 238px;
+  max-height: 302px;
+  margin: 60px auto;
+  background-image: url('../assets/Scarecrow.png');
+  background-repeat:no-repeat;
+  background-position: center;
+  background-size: contain;
+}
+.main__picture img{
+  width: 100%;
+}
+.main__text h2{
+  font-family: 'Space Mono', monospace;
+  font-weight: 700;
+  font-size:4.8rem;
+  line-height:7.109rem;
+  color: #333333;
+  text-align: left;
+}
+.main__text p{
+  margin: 50px 0;
+  font-family: 'Space Mono', monospace;
+  font-weight: 400;
+  font-size: 1.8rem;
+  line-height: 2.666rem;
+  color: #4F4F4F;
+  text-align: left;
+}
+.main__button{
+  width: 216px;
+  height: 68px;
+  background-color: #333333;
+  color: white;
+  font-family: 'Space Mono', monospace;
+  font-weight: 700;
+  font-size: 1.4rem;
+  line-height: 2.073rem;
+  }
+footer{
+  width: 100%;
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 108px;
+}
+footer p{
+
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
+  font-size: 1.3rem;
+  line-height: 1.707rem;
+  color: #BDBDBD;
+}
+footer p span {
+  text-decoration:underline;
+  font-weight: 700;
+}
