@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/D3ATHGUN/Web-Projects-devchallenges.io-/tree/main/404-not-found-master">
+    <a href="https://github.com/D3ATHGUN/devchallenges-1-404-Not-Found">
       Solution
     </a>
     <span> | </span>
