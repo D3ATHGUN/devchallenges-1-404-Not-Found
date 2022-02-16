@@ -37,13 +37,8 @@
 ## Overview
 
 ![screenshot](https://github.com/D3ATHGUN/devchallenges-1-404-Not-Found/blob/main/overview.PNG)
+This project helped me to consolidate my skills in CSS Flexbox and Responsive Design.
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
-
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
 
 ### Built With
 
