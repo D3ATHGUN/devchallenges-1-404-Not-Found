@@ -44,7 +44,7 @@ This project helped me to consolidate my skills in CSS Flexbox and Responsive De
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- HTML, CSS and Javascript
+- HTML and CSS
 
 ## Features
 
